@@ -216,7 +216,7 @@ function App() {
     <Router>
       <div className={`app ${theme}`}>
         <header>
-          <h1>Advanced Task Manager</h1>
+          <h1>Task Manager</h1>
           <nav>
             <Link to="/tasks" className="nav-link">
               Tasks

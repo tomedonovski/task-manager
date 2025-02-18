@@ -2,6 +2,17 @@
 
 A powerful, user-friendly, and responsive task management application built with React, featuring task tracking, reminders, collaboration, and more!
 
+## 📸 Screenshots
+
+### 📋 Tasks
+![Task List](screenshots/tasks.png)
+
+### 📊 Dashboard
+![Dashboard Progress](screenshots/dashboard-dark.png)
+
+### ⚽ Activity Log
+![Activity Log](screenshots/activity-log.png)
+
 ## 🚀 Features
 
 ✅ **Task Creation & Editing** - Easily add, modify, and remove tasks.  
