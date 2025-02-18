@@ -2,8 +2,6 @@
 
 A powerful, user-friendly, and responsive task management application built with React, featuring task tracking, reminders, collaboration, and more!
 
-# 📌 Task Manager - A Full-Featured Task Management App
-
 ![Build Status](https://github.com/tomedonovski/task-manager/actions/workflows/build.yml/badge.svg)
 
 ## 📸 Screenshots
